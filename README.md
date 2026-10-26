@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emrullah 👋
 
-<!--
-**Emrullah4434/Emrullah4434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL • Python • Data Visualization • Business Intelligence**
 
-Here are some ideas to get you started:
+I turn complex datasets into clear, actionable insights that support informed business decisions. My interests include data quality, exploratory analysis, KPI reporting, and retail/market analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical toolkit
+- **Querying:** SQL (joins, CTEs, window functions)
+- **Analysis:** Python, pandas, data cleaning and exploratory data analysis
+- **Reporting:** KPI design, data visualization and business storytelling
+
+### Featured project
+📊 **[Retail Sales & Market Analysis](https://github.com/Emrullah4434/retail-sales-market-analysis)** — reproducible SQL and Python analysis of a **synthetic** retail transactions dataset, including sales KPIs, product/category performance and monthly trends.
+
+> The featured repository uses generated sample data for demonstration; it contains no confidential or real customer information.
+
+### Contact
+- GitHub: [@Emrullah4434](https://github.com/Emrullah4434)
+- LinkedIn: www.linkedin.com/in/emrullah-bozkurt-37a61a213
